@@ -29,5 +29,11 @@ Learn penetration testing workflow and exploit vulnerabilities responsibly.
 
 ---
 
+## Task 5 - Capstone Project & Incident Response
+### Objective 
+
+Appy all skills in a self-chosen capstone project and simulate an incident response
+
+---
 
 Demo video: https://www.linkedin.com/posts/b-t-v-srivalli-karyampudi-798002259_cybersecurity-pentesting-infosec-activity-7389427536193216512-OxCE
